@@ -40,6 +40,9 @@ body
     border: 1px solid #DDD;
     margin: 0 auto;
 }
+header {
+    display: block;
+  }
 
 #container h1
 {
