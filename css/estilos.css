@@ -41,6 +41,13 @@ body
     margin: 0 auto;
 }
 
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
+
 #container h1
 {
     font-size: 20px;
